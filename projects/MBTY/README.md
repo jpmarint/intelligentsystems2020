@@ -102,6 +102,6 @@ Using a few tweets, post or comments, let's try to predict your Myers-Briggs Per
 2. Fit and predict the 4 type indicators
 3. Show result
 
-A video of the system predicting can see here: [Working Video](Using MBTY.mp4)
+A video of the system predicting can see here: [Working Video](https://github.com/jpmarint/intelligentsystems2020/blob/main/projects/MBTY/Using%20MBTY.mp4)
 
 *Note: I made a mistake using the file location, fix that and try to use the jupiter notebook first.*
