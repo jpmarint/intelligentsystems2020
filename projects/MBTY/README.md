@@ -61,11 +61,13 @@ Here we are trying to make a model for each indicator so every letter is predict
 "A benefit of using ensembles of decision tree methods like gradient boosting is that they can automatically provide estimates of feature importance from a trained predictive model. A trained XGBoost model automatically calculates feature importance on your predictive modeling problem." [[1]](https://machinelearningmastery.com/xgboost-python-mini-course/)*
 
 Importance Plot
+
 <img src='images/featureimp.png'>
 
-Meaning of featur code
-<img src='images/featuremean.png'>
 
+Meaning of feature code
+
+<img src='images/featuremean.png'>
 
   ##### How to Configure Gradient Boosting
 
