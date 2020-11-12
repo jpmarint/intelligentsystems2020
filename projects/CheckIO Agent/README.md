@@ -1,9 +1,14 @@
 # CheckIO Python Agent
 
+<img src='https://oauth-static.checkio.org/static/img/share.jpg'> This is an organization that create code challenges for the ones who are learning python or javascript and want to get better on the quality of their code and train their logic as a game.
 
-This is an organization that create code challenges for the ones who are learning python or javascript and want to get better on the quality of their code and train their logic as a game.
+The objective of the game is to cover all the islands, on every island there are a sort of tasks available (some are for paid users) or some are blocked cause you haven't solve some tasks before.
 
+<img src='https://blog.jetbrains.com/wp-content/uploads/2019/03/checkIO_map.png'> Map of CheckIO Python
 
+## Agent Diagram
+This system is called an agent and it's architecture is based on *Simple reflex agents* type
+-- Pic of diagram
 
 ## Instalation
   - Requierements:
