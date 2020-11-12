@@ -22,3 +22,8 @@ The Myers-Briggs Personality Type Indicator is a self-report inventory designed 
 3. Apply steps of the "[XGBoost With Python Mini-Course](https://machinelearningmastery.com/xgboost-python-mini-course/)".
 4. Predict own Myers-Briggs Personality Type base on a few tweets and blog post.
 
+## Process Flow
+### 1. Data Exploration
+We look for the data info and then we check how does the posts look like, also the rows.
+<img src=''><img src=''>
+
