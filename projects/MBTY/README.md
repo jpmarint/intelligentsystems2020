@@ -56,7 +56,7 @@ Y: Binarized MBTI
 
 Here we are trying to make a model for each indicator so every letter is predicted well.
 
-### 5. Improve Performance
+### 5. Improve Performance [Tuning]
   ##### Feature Importance with XGBoost
 "A benefit of using ensembles of decision tree methods like gradient boosting is that they can automatically provide estimates of feature importance from a trained predictive model. A trained XGBoost model automatically calculates feature importance on your predictive modeling problem." [[1]](https://machinelearningmastery.com/xgboost-python-mini-course/)*
 
@@ -80,5 +80,28 @@ Meaning of feature code
 
   See also [Complete Guide to Parameter Tuning in XGBoost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
-###
 
+**XGBoost Hyperparameter Tuning**
+
+*"The scikit-learn framework provides the capability to search combinations of parameters. This capability is provided in the GridSearchCV class and can be used to discover the best way to configure the model for top performance on your problem.*    
+
+*The parameters to consider tuning are:*
+- *The number and size of trees (n_estimators and max_depth).*
+- *The learning rate and number of trees (learning_rate and n_estimators).*
+- *The row and column subsampling rates (subsample, colsample_bytree and colsample_bylevel)." [[2]](https://machinelearningmastery.com/xgboost-python-mini-course/)*
+    
+See also [Introduction to gradient-boosted trees and XGBoost hyperparameters tuning](https://www.apprendimentoautomatico.it/en/introduction-to-gradient-boosted-trees-and-xgboost-hyperparameters-tuning-with-python/)
+
+#### From this point we have finally trained our model and got the best params from the tuning to use it for our own purposes 
+
+## Predict your Myers-Briggs Personality Type
+
+Using a few tweets, post or comments, let's try to predict your Myers-Briggs Personality Type.
+
+1. Prep data
+2. Fit and predict the 4 type indicators
+3. Show result
+
+A video of the system predicting can see here: [Working Video]()
+
+Note: I made a mistake using the file location, fix that and try to use the jupiter notebook first.
