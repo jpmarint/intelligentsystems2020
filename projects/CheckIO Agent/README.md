@@ -8,7 +8,7 @@ The objective of the game is to cover all the islands, on every island there are
 
 ## Agent Diagram
 This system is called an agent and it's architecture is based on *Simple reflex agents* type
-![GitHub Logo](/Simple Agent (1).png)
+![CheckIO Bot Agent Diagram](AgentDiag.png)
 
 ## Instalation
   - Requierements:
